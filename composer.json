@@ -1,12 +1,12 @@
 {
-  "name": "igormakarov/ikassa.cloud.php.sdk",
+  "name": "olegfill/ikassa.cloud.php.sdk",
   "description": "Client for work with IKassa.Cloud REST API and auth",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Makarov Igor",
-      "email": "igormakarov1991@gmail.com"
+      "name": "Oleg Fil",
+      "email": "oleg.fil.dev@gmail.com"
     }
   ],
   "minimum-stability": "dev",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "igormakarov\\IKassa\\": "src"
+      "olegfill\\IKassa\\": "src"
     }
   }
 }
