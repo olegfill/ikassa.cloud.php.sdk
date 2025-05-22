@@ -1,9 +1,9 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Routes;
+namespace olegfill\IKassa\ApiClient\Routes;
 
-use igormakarov\IKassa\AuthData;
-use igormakarov\IKassa\Routes\Route;
+use olegfill\IKassa\AuthData;
+use olegfill\IKassa\Routes\Route;
 
 class ShiftRoutes
 {

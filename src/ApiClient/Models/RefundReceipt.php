@@ -1,11 +1,11 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models;
+namespace olegfill\IKassa\ApiClient\Models;
 
-use igormakarov\IKassa\ApiClient\Models\Header\Header;
-use igormakarov\IKassa\ApiClient\Models\Modifier\Modifiers;
-use igormakarov\IKassa\ApiClient\Models\Payment\Payments;
-use igormakarov\IKassa\ApiClient\Models\Position\Positions;
+use olegfill\IKassa\ApiClient\Models\Header\Header;
+use olegfill\IKassa\ApiClient\Models\Modifier\Modifiers;
+use olegfill\IKassa\ApiClient\Models\Payment\Payments;
+use olegfill\IKassa\ApiClient\Models\Position\Positions;
 
 class RefundReceipt
 {

@@ -9,7 +9,7 @@ API: https://ikassa.pages.imlab.by/cloud-cashbox/doc/auth.html</br></br>
 
 ### Подключение к проекту:
 ```cli
-composer require igormakarov/ikassa.cloud.php.sdk
+composer require olegfill/ikassa.cloud.php.sdk
 ```
 ```php
 require_once 'vendor/autoload.php';

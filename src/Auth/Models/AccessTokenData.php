@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\Auth\Models;
+namespace olegfill\IKassa\Auth\Models;
 
 class AccessTokenData
 {

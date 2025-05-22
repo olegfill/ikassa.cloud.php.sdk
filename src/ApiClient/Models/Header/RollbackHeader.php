@@ -1,8 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Header;
-
-use igormakarov\IKassa\ApiClient\Models\Header\IHeader;
+namespace olegfill\IKassa\ApiClient\Models\Header;
 
 class RollbackHeader implements IHeader
 {

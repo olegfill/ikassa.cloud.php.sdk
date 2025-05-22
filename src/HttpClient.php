@@ -1,12 +1,12 @@
 <?php
 
-namespace igormakarov\IKassa;
+namespace olegfill\IKassa;
 
 use Exception;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Exception\RequestException;
-use igormakarov\IKassa\Routes\Route;
+use olegfill\IKassa\Routes\Route;
 use Throwable;
 
 class HttpClient

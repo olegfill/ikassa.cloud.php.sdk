@@ -1,8 +1,8 @@
 <?php
 
-namespace igormakarov\IKassa\Auth\Mappers;
+namespace olegfill\IKassa\Auth\Mappers;
 
-use igormakarov\IKassa\Auth\Models\AccessTokenData;
+use olegfill\IKassa\Auth\Models\AccessTokenData;
 
 class AccessTokenDataMapper
 {

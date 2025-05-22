@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models;
+namespace olegfill\IKassa\ApiClient\Models;
 
 use Exception;
 use http\Exception\InvalidArgumentException;

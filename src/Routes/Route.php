@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\Routes;
+namespace olegfill\IKassa\Routes;
 
 class Route
 {

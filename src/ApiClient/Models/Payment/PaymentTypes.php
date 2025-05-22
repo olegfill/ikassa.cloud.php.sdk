@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Payment;
+namespace olegfill\IKassa\ApiClient\Models\Payment;
 
 class PaymentTypes
 {

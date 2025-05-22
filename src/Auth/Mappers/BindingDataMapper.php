@@ -1,8 +1,8 @@
 <?php
 
-namespace igormakarov\IKassa\Auth\Mappers;
+namespace olegfill\IKassa\Auth\Mappers;
 
-use igormakarov\IKassa\Auth\Models\BindingData;
+use olegfill\IKassa\Auth\Models\BindingData;
 
 class BindingDataMapper
 {

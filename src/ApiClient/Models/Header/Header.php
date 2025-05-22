@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Header;
+namespace olegfill\IKassa\ApiClient\Models\Header;
 
 class Header implements IHeader
 {

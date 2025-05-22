@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa;
+namespace olegfill\IKassa;
 
 class AuthData
 {

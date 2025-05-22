@@ -1,8 +1,8 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models;
+namespace olegfill\IKassa\ApiClient\Models;
 
-use igormakarov\IKassa\ApiClient\Models\Header\IHeader;
+use olegfill\IKassa\ApiClient\Models\Header\IHeader;
 
 class FiscalDocumentData
 {

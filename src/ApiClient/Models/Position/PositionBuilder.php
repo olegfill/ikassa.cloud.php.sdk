@@ -1,9 +1,9 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Position;
+namespace olegfill\IKassa\ApiClient\Models\Position;
 
-use igormakarov\IKassa\ApiClient\Models\Modifier\Discount;
-use igormakarov\IKassa\ApiClient\Models\Modifier\Markup;
+use olegfill\IKassa\ApiClient\Models\Modifier\Discount;
+use olegfill\IKassa\ApiClient\Models\Modifier\Markup;
 
 class PositionBuilder
 {

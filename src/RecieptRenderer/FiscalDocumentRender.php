@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\RecieptRenderer;
+namespace olegfill\IKassa\RecieptRenderer;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;

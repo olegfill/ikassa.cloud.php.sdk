@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Modifier;
+namespace olegfill\IKassa\ApiClient\Models\Modifier;
 
 interface IModifiable
 {

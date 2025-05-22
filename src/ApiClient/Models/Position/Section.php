@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Models\Position;
+namespace olegfill\IKassa\ApiClient\Models\Position;
 
 use InvalidArgumentException;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Exceptions\Shift;
+namespace olegfill\IKassa\ApiClient\Exceptions\Shift;
 
 class ShiftExceptionFactory
 {

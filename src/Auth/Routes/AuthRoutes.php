@@ -1,9 +1,9 @@
 <?php
 
-namespace igormakarov\IKassa\Auth\Routes;
+namespace olegfill\IKassa\Auth\Routes;
 
-use igormakarov\IKassa\AuthData;
-use igormakarov\IKassa\Routes\Route;
+use olegfill\IKassa\AuthData;
+use olegfill\IKassa\Routes\Route;
 
 class AuthRoutes
 {

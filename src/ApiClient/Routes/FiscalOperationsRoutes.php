@@ -1,13 +1,13 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient\Routes;
+namespace olegfill\IKassa\ApiClient\Routes;
 
-use igormakarov\IKassa\ApiClient\Models\FiscalDocumentData;
-use igormakarov\IKassa\ApiClient\Models\Receipt;
-use igormakarov\IKassa\ApiClient\Models\RefundReceipt;
-use igormakarov\IKassa\ApiClient\Models\RollbackFiscalDocumentData;
-use igormakarov\IKassa\AuthData;
-use igormakarov\IKassa\Routes\Route;
+use olegfill\IKassa\ApiClient\Models\FiscalDocumentData;
+use olegfill\IKassa\ApiClient\Models\Receipt;
+use olegfill\IKassa\ApiClient\Models\RefundReceipt;
+use olegfill\IKassa\ApiClient\Models\RollbackFiscalDocumentData;
+use olegfill\IKassa\AuthData;
+use olegfill\IKassa\Routes\Route;
 
 class FiscalOperationsRoutes
 {

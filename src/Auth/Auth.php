@@ -1,15 +1,15 @@
 <?php
 
-namespace igormakarov\IKassa\Auth;
+namespace olegfill\IKassa\Auth;
 
 use Exception;
-use igormakarov\IKassa\Auth\Mappers\AccessTokenDataMapper;
-use igormakarov\IKassa\Auth\Mappers\BindingDataMapper;
-use igormakarov\IKassa\Auth\Models\AccessTokenData;
-use igormakarov\IKassa\Auth\Models\BindingData;
-use igormakarov\IKassa\Auth\Routes\AuthRoutes;
-use igormakarov\IKassa\AuthData;
-use igormakarov\IKassa\HttpClient;
+use olegfill\IKassa\Auth\Mappers\AccessTokenDataMapper;
+use olegfill\IKassa\Auth\Mappers\BindingDataMapper;
+use olegfill\IKassa\Auth\Models\AccessTokenData;
+use olegfill\IKassa\Auth\Models\BindingData;
+use olegfill\IKassa\Auth\Routes\AuthRoutes;
+use olegfill\IKassa\AuthData;
+use olegfill\IKassa\HttpClient;
 use Throwable;
 
 class Auth

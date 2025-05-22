@@ -1,17 +1,17 @@
 <?php
 
-namespace igormakarov\IKassa\ApiClient;
+namespace olegfill\IKassa\ApiClient;
 
 use Exception;
-use igormakarov\IKassa\ApiClient\Models\Currencies;
-use igormakarov\IKassa\ApiClient\Models\FiscalDocumentData;
-use igormakarov\IKassa\ApiClient\Models\Receipt;
-use igormakarov\IKassa\ApiClient\Models\RefundReceipt;
-use igormakarov\IKassa\ApiClient\Models\RollbackFiscalDocumentData;
-use igormakarov\IKassa\ApiClient\Routes\FiscalOperationsRoutes;
-use igormakarov\IKassa\ApiClient\Routes\ShiftRoutes;
-use igormakarov\IKassa\AuthData;
-use igormakarov\IKassa\HttpClient;
+use olegfill\IKassa\ApiClient\Models\Currencies;
+use olegfill\IKassa\ApiClient\Models\FiscalDocumentData;
+use olegfill\IKassa\ApiClient\Models\Receipt;
+use olegfill\IKassa\ApiClient\Models\RefundReceipt;
+use olegfill\IKassa\ApiClient\Models\RollbackFiscalDocumentData;
+use olegfill\IKassa\ApiClient\Routes\FiscalOperationsRoutes;
+use olegfill\IKassa\ApiClient\Routes\ShiftRoutes;
+use olegfill\IKassa\AuthData;
+use olegfill\IKassa\HttpClient;
 use Throwable;
 
 class IKassaApiClient
@@ -101,7 +101,6 @@ class IKassaApiClient
         $shift = $this->getShift();
         return isset($shift["counters"][$currency]) ? $shift["counters"][$currency]["attributes"]["$.cashin.sum"] : 0;
     }
-
 
     /**
      * @throws Throwable
